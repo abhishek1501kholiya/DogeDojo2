@@ -1,1 +1,1 @@
-# DogeDojo2
+# Dogedojo
